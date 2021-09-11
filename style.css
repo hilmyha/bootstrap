@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+* {
+  font-family: "Ubuntu", sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+.navbar-haidar {
+  background-color: #023627;
+}
+
+.bg-head {
+  background-image: url("img/head.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  height: 450px;
+}
+
+.bg-foot {
+  background-image: url("img/foot.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  height: 350px;
+}
+
+.fab {
+  color: gray;
+  transition: 0.5s;
+}
+.fab:hover {
+  color: #212529;
+}
+
+/*# sourceMappingURL=style.css.map */
