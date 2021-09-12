@@ -33,7 +33,21 @@ body {
   transition: 0.5s;
 }
 .fab:hover {
-  color: #212529;
+  color: #023627;
+}
+
+.hover-haidar {
+  cursor: pointer;
+  background-color: white;
+  transition: 0.5s;
+}
+.hover-haidar:hover {
+  background-color: whitesmoke;
+}
+
+.media img {
+  width: 120px;
+  height: 120px;
 }
 
 /*# sourceMappingURL=style.css.map */
